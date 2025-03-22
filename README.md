@@ -64,11 +64,11 @@ Throughout the projects, I’ve worked with the following technologies and tools
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MukiiriKoome/Keras-Learning-Projects.git
+   git clone https://github.com/MukiiriKoome/Tensorflow.git
    ```
 2. Navigate to the specific project folder:
    ```bash
-   cd Keras-Learning-Projects/Project-1/
+   cd Tensorflow/Project-1/
    ```
 3. Run the code or open the Jupyter notebook:
    ```bash
