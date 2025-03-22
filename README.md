@@ -64,7 +64,7 @@ Throughout the projects, I’ve worked with the following technologies and tools
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Keras-Learning-Projects.git
+   git clone https://github.com/MukiiriKoome/Keras-Learning-Projects.git
    ```
 2. Navigate to the specific project folder:
    ```bash
