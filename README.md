@@ -16,10 +16,10 @@ This repository is organized into folders for each project or topic. Below is an
 
 ```
 Keras-Learning-Projects/
-├── Project-1/                  # Folder for Project 1
+├── Project 1/                  # Folder for Project 1
 │   ├── project1-code.py        # Code for Project 1
-│   ├── README.md               # Description of Project 1
-│   └── data/                   # Data used in Project 1
+│   ├── README.md               # Description of        
+Project 1
 ├── Project-2/                  # Folder for Project 2
 │   ├── project2-code.py        # Code for Project 2
 │   ├── README.md               # Description of Project 2
