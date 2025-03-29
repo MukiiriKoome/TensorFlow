@@ -25,9 +25,7 @@ Project 1
 │   ├── README.md               # Description of Project 2
 │   └── data/                   # Data used in Project 2
 ├── notebooks/                  # Jupyter notebooks for experiments
-│   ├── experiment1.ipynb       # Notebook for Experiment 1
-│   └── experiment2.ipynb       # Notebook for Experiment 2
-└── README.md                   # This file (overview of the repository)
+ (overview of the repository)
 ```
 
 ---
