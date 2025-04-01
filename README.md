@@ -25,7 +25,7 @@ Project 1
 │   ├── README.md               # Description of Project 2
 │   └── data/                   # Data used in Project 2
 ├── notebooks/                  # Jupyter notebooks for experiments
- (overview of the repository)
+
 ```
 
 ---
