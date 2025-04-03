@@ -38,11 +38,6 @@ Here’s a list of projects completed so far:
    - Description: []  
    - Code: []  
 
-2. **Project 2**: []  
-   - Description: []  
-   - Code: []  
-
-
 
 ---
 
