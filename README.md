@@ -1,4 +1,4 @@
-# **Keras API Learning Projects** 🚀
+# **Keras API Learning Projects** 
 
 Welcome to my **Keras API Learning Projects** repository! This repository contains all the projects, experiments, and code snippets I’ve created while learning and exploring the **Keras API** for **TensorFlow**. It serves as a record of my progress and a showcase of the skills I’ve acquired in deep learning and neural networks.
 
